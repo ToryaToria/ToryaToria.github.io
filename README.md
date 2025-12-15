@@ -24,7 +24,8 @@
  ---
  <h2 align="left">Contacts</h2>
 <div>
-<a href="tel:+79787205910" target="_blank">☎️ tel:+7(978)720-59-10</a>
+<a href="tel:+79787205910" target="_blank">☎️ +7 (978) 720-59-10</a>
+  <br>
 <a href="https://t.me/torya_toria" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
  </a>
