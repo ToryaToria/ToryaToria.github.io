@@ -14,7 +14,9 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToryaToria&show_icons=true&locale=en&layout=compact" alt="mrjakhongir"/>
 <br>
 
+<p>Codewars: <img align="center" src="https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/large"/></p>
 
+<br>
 <div>
  <a href="#">
   <img src="https://img.shields.io/badge/See_my-Resume-blue" alt="resume"/>
@@ -50,6 +52,6 @@
 - 📜 UX_UI: [certificate](https://)
 - 📜 HTML_ACADEMY [certificate](https://)
 ---
-<h2 align="left">Honors</h2>
 
-<p>Codewars: <img align="center" src="https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/large"/></p>
+
+
