@@ -37,6 +37,7 @@
  ---
 
 [![Codewars Badge]([https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/micro])(https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
+[![Codewars Badge](https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/micro)](https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
 
 [![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
 ---
