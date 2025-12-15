@@ -6,30 +6,22 @@
 
 
  <h3 align="center">🛠️ Tech Stack</h3>
-  <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,sass,gulp,webpack,vite" />
 </p>
 
-
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToryaToria&show_icons=true&locale=en&layout=compact" alt="mrjakhongir"/>
+</p>
 <br>
 
 <p>Codewars: <img align="center" src="https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/large"/></p>
 
-<br>
-<div>
- <a href="#">
-  <img src="https://img.shields.io/badge/See_my-Resume-blue" alt="resume"/>
- </a>
-</div>
- 
 
  <h2 align="left">Contacts</h2>
- 
-<p>
+ <p>
 <a href="tel:+79787205910" target="_blank">☎️ +7 (978) 720-59-10</a>
   <br>
-   <br> 
   <br>
 <a href="https://t.me/torya_toria" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
@@ -44,7 +36,14 @@
   <h2 align="left">About me</h2>
   <p>
     ...
-  </p>
+
+ <br>
+<div>
+ <a href="#">
+  <img src="https://img.shields.io/badge/See_my-Resume-blue" alt="resume"/>
+ </a>
+</div>
+
  ---
  <h2>Education</h2>
 
