@@ -44,6 +44,12 @@
     ...
   </p>
  ---
+ <h2>Education</h2>
+
+- 🎓 СЕВГУ
+- 📜 UX_UI: [certificate](https://)
+- 📜 HTML_ACADEMY [certificate](https://)
+---
 <h2 align="left">Honors</h2>
 
 <p>Codewars: <img align="center" src="https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/large"/></p>
