@@ -15,14 +15,11 @@
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToryaToria&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToryaToria&theme=react)
-
----
-
- ![](https://github-readme-stats.vercel.app/api?username=ToryaToria&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToryaToria&show_icons=true&locale=en&layout=compact" alt="mrjakhongir" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToryaToria&show_icons=true&locale=en&layout=compact" alt="mrjakhongir"/>
+<div>
  <a href="#">
   <img src="https://img.shields.io/badge/See_my-Resume-blue" alt="resume"/>
  </a>
+</div>
  
  ---
