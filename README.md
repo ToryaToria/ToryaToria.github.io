@@ -16,6 +16,7 @@
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToryaToria&show_icons=true&locale=en&layout=compact" alt="mrjakhongir"/>
 <br>
+
 [![Codewars Badge](https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/micro)](https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
 
 <div>
@@ -39,6 +40,7 @@
 
  ---
 
+[![Codewars Badge](https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/micro)](https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
 
 
 ---
