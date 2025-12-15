@@ -23,11 +23,9 @@
  
  ---
  <h2 align="left">Contacts</h2>
-
-☎️ [+79787205910](tel:+7(978)720-59-10)
-
 <div>
- <a href="https://t.me/torya_toria" target="_blank">
+<a href="tel:+79787205910" target="_blank">☎️ tel:+7(978)720-59-10</a>
+<a href="https://t.me/torya_toria" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
  </a>
  <a href="mailto:torya.toria@yandex.ru" target="_blank">
@@ -37,8 +35,7 @@
 
  ---
 
-![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/torya_toria)
-![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:torya.toria@yandex.ru)
 ![Codewars Badge]([https://www.codewars.com/users/rsschool_b41f82c9cbf21711])(https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
 
+[![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
 ---
