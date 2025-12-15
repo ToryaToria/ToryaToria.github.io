@@ -13,3 +13,6 @@
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ToryaToria)](https://github.com/ToryaToria/github-profile-trophy)
+
+---
