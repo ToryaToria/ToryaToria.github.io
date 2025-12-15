@@ -13,6 +13,6 @@
 </p>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ToryaToria)](https://github.com/ToryaToria/github-profile-trophy)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToryaToria&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToryaToria&theme=react)
 ---
