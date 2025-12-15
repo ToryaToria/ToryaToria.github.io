@@ -10,20 +10,18 @@
 
  <h3 align="center">🛠️ Tech Stack</h3>
 
- <div>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</div>
-<div align="center">
+  ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)]
+
 ![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=for-the-badge&labelColor=20232a&logo=html5&logoColor=e24c25)
 ![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=for-the-badge&labelColor=20232a&logo=css&logoColor=553d7d)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=for-the-badge&labelColor=20232a&logo=javascript&logoColor=f3de61)
-</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vite,sass,gulp,webpack" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,sass,gulp,webpack,vite" />
 </p>
 
 ---
