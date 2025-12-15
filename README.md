@@ -15,6 +15,9 @@
 ---
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToryaToria&show_icons=true&locale=en&layout=compact" alt="mrjakhongir"/>
+<br>
+[![Codewars Badge](https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/micro)](https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
+
 <div>
  <a href="#">
   <img src="https://img.shields.io/badge/See_my-Resume-blue" alt="resume"/>
@@ -36,8 +39,6 @@
 
  ---
 
-[![Codewars Badge]([https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/micro])(https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
-[![Codewars Badge](https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/micro)](https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
 
-[![Codewars Badge](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e/badges/micro)](https://www.codewars.com/users/rsschool_6db3cf82fa78bc1e)
+
 ---
