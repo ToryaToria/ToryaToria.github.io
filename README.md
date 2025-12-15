@@ -14,7 +14,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToryaToria&show_icons=true&locale=en&layout=compact" alt="mrjakhongir"/>
 <br>
 
-[![Codewars Badge](https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/micro)](https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
 
 <div>
  <a href="#">
@@ -28,6 +27,8 @@
 <p>
 <a href="tel:+79787205910" target="_blank">☎️ +7 (978) 720-59-10</a>
   <br>
+   <br> 
+  <br>
 <a href="https://t.me/torya_toria" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
  </a>
@@ -38,3 +39,11 @@
 
  ---
 
+  <h2 align="left">About me</h2>
+  <p>
+    ...
+  </p>
+ ---
+<h2 align="left">Honors</h2>
+
+<p>Codewars: <img align="center" src="https://www.codewars.com/users/rsschool_b41f82c9cbf21711/badges/large"/></p>
