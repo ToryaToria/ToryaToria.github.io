@@ -37,8 +37,8 @@
 
  ---
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/torya_toria)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:torya.toria@yandex.ru)
-[![Codewars Badge]([https://www.codewars.com/users/rsschool_b41f82c9cbf21711](https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
+![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=303133&link=https://t.me/Bnz1905)](https://t.me/torya_toria)
+![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.ru&logoColor=white&labelColor=303133&link=mailto:orbital.logistics@yandex.ru)](mailto:torya.toria@yandex.ru)
+![Codewars Badge]([https://www.codewars.com/users/rsschool_b41f82c9cbf21711])(https://www.codewars.com/users/rsschool_b41f82c9cbf21711)
 
 ---
