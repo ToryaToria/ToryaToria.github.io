@@ -14,7 +14,6 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToryaToria&theme=react)
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToryaToria&show_icons=true&locale=en&layout=compact" alt="mrjakhongir"/>
 <div>
  <a href="#">
@@ -23,3 +22,15 @@
 </div>
  
  ---
+ <h2 align="left">Contacts</h2>
+
+☎️ [+79787205910](tel:+7(978)720-59-10)
+
+<div>
+ <a href="https://t.me/torya_toria" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+ </a>
+ <a href="mailto:torya.toria@yandex.ru" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
+ </a>
+</div>
