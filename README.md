@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Torya</h1>
-<h2 align="center">A passionate fullstack web developer</h2>
+<h2 align="center">A passionate frontend web developer</h2>
  <p align="center">
      <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
   </p>
